@@ -1,0 +1,12 @@
+.vs
+*.suo
+*.user
+bin
+obj
+packages
+BOMWeather/bin/*
+BOMWeather/obj/*
+Test/bin/*
+Usage/bin/*
+Test/obj/*
+Usage/obj/*

@@ -1,8 +1,0 @@
-C:\Users\Monika\source\repos\BOMWeather\BOMWeather\bin\Debug\netstandard2.0\BOMWeather.deps.json
-C:\Users\Monika\source\repos\BOMWeather\BOMWeather\bin\Debug\netstandard2.0\BOMWeather.dll
-C:\Users\Monika\source\repos\BOMWeather\BOMWeather\bin\Debug\netstandard2.0\BOMWeather.pdb
-C:\Users\Monika\source\repos\BOMWeather\BOMWeather\obj\Debug\netstandard2.0\BOMWeather.AssemblyInfoInputs.cache
-C:\Users\Monika\source\repos\BOMWeather\BOMWeather\obj\Debug\netstandard2.0\BOMWeather.AssemblyInfo.cs
-C:\Users\Monika\source\repos\BOMWeather\BOMWeather\obj\Debug\netstandard2.0\BOMWeather.dll
-C:\Users\Monika\source\repos\BOMWeather\BOMWeather\obj\Debug\netstandard2.0\BOMWeather.pdb
-C:\Users\Monika\source\repos\BOMWeather\BOMWeather\obj\Debug\netstandard2.0\BOMWeather.csprojAssemblyReference.cache
