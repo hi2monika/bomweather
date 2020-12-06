@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Usage": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Monika\\Downloads\\IDCJAC0009_066062_1800\\IDCJAC0009_066062_1800_Data.csv"
+    }
+  }
+}
